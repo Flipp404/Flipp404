@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0910,50:2E1065,100:6D28D9&height=240&section=header&text=FELIPE%20LEMOS&fontSize=62&fontColor=EDE9FE&fontAlignY=40&animation=fadeIn&desc=%E2%9C%A6%20student.exe%20%E2%9C%A6%20java%20%C2%B7%20python%20%C2%B7%20cybersecurity&descSize=18&descColor=C4B5FD&descAlignY=62" alt="Banner Felipe Lemos" width="100%"/>
 
 <a href="https://github.com/Flipp404">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=C4B5FD&background=0B0910FF&center=true&vCenter=true&width=640&height=60&lines=%3E+Estudante+de+tecnologia;%3E+Java+%2B+Python+no+dia+a+dia;%3E+Aprendendo+cybersecurity;%3E+Ambi%C3%A7%C3%A3o+%2B+resili%C3%AAncia;%3E+insert+coin+to+continue_" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=C4B5FD&background=0B0910FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+Java+%2B+Python+no+dia+a+dia;%3E+Aprendendo+cybersecurity;%3E+Ambi%C3%A7%C3%A3o+%2B+resili%C3%AAncia;%3E+insert+coin+to+continue_" alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<sub><i>Desenvolvedor com foco em Java e Python, dedicado aos estudos de Cibersegurança para criar aplicações robustas e bem estruturadas.</i></sub>
+<sub><i>Estudante de Ciência da Computação com foco em Java e Python, dedicado à Cibersegurança para criar aplicações robustas e bem estruturadas.</i></sub>
 
 </div>
 
@@ -30,12 +30,15 @@
 ╠═══════════════════════════════════════════════════════╣
 ║  > NOME........ Felipe Lemos                          ║
 ║  > CLASSE...... Estudante                             ║
+║  > CURSANDO.... Ciência da Computação                 ║
+║  > FORMAÇÃO.... Técnico em Informática                ║
 ║  > MAIN........ Java e Python                         ║
 ║  > EDITORES.... VS Code e IntelliJ                    ║
-║  > EM ESTUDO... Cybersecurity                         ║
+║  > EM ESTUDO... Cibersegurança                        ║
 ║  > DIA A DIA... Windows                               ║
 ║  > LABORATÓRIO. Linux                                 ║
 ║  > ATRIBUTOS... Ambição + Resiliência                 ║
+║  > FOTOGRAFIA.. Paisagens                             ║
 ║  > SIDE QUESTS. Culinária, filmes e séries            ║
 ╚═══════════════════════════════════════════════════════╝
 ```
@@ -44,19 +47,19 @@
 
 > Desenvolvedor movido por **ambição**, **resiliência** e **constante evolução**.
 
-Minha trajetória na tecnologia se consolidou com a formação técnica e segue em expansão. Meu foco principal é o desenvolvimento com **Java** e **Python**, tendo o **VS Code** e o **IntelliJ IDEA** como ferramentas do dia a dia.
+Minha trajetória na tecnologia se consolidou com a formação técnica em Informática e segue em expansão, hoje com a graduação em **Ciência da Computação**. Meu foco principal é o desenvolvimento com **Java** e **Python**, tendo o **VS Code** e o **IntelliJ IDEA** como ferramentas do dia a dia.
 
 Atualmente, aprofundo meus estudos em **Cibersegurança** com o objetivo de projetar e construir aplicações bem estruturadas, eficientes e seguras.
 
-Na rotina de estudos e projetos, alterno entre o **Windows**, para produtividade, e o **Linux**, para pesquisa e laboratórios. Nas horas vagas, aprecio culinária, filmes e séries.
+Na rotina de estudos e projetos, alterno entre o **Windows**, para produtividade, e o **Linux**, para pesquisa e laboratórios. Nas horas vagas, fotografo paisagens e aprecio culinária, filmes e séries.
 
 <br/>
 
 <div align="center">
 
-| 🎯 Foco | 🧰 Ferramentas | 🔐 Estudando | 💬 Valores |
+| 🎯 Foco | 🎓 Formação | 🔐 Estudando | 💬 Valores |
 |:---:|:---:|:---:|:---:|
-| Java e Python | VS Code e IntelliJ | Cibersegurança | Ambição e resiliência |
+| Java e Python | Ciência da Computação | Cibersegurança | Ambição e resiliência |
 
 </div>
 
