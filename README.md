@@ -116,8 +116,8 @@ Na rotina de estudos e projetos, alterno entre o **Windows**, para produtividade
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flipp404/Flipp404/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Flipp404/Flipp404/output/snake.svg" alt="Snake Contribution" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flipp404/Flipp404/output/snake-purple-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Flipp404/Flipp404/output/snake-purple.svg" alt="Snake Contribution" width="100%" />
 </picture>
 
 </div>
