@@ -94,6 +94,9 @@ Na rotina de estudos e projetos, alterno entre o **Windows**, para produtividade
 <a href="https://github.com/Flipp404/idea-of-portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flipp404&repo=idea-of-portfolio&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&icon_color=E879F9&border_color=8B5CF6&cache_seconds=1" alt="idea-of-portfolio" />
 </a>
+<a href="https://github.com/Flipp404/controle-finaceiro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flipp404&repo=controle-finaceiro&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&icon_color=E879F9&border_color=8B5CF6" alt="NOME-DO-REPO" />
+</a>
 
 </div>
 
