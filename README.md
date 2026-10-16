@@ -106,12 +106,14 @@ Na rotina de estudos e projetos, alterno entre o **Windows**, para produtividade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Flipp404&show_icons=true&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&icon_color=E879F9&border_color=8B5CF6&card_width=467&v=2" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipp404&layout=compact&langs_count=8&card_width=467&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&border_color=8B5CF6&v=2" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Flipp404&show_icons=true&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&icon_color=E879F9&border_color=8B5CF6&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipp404&layout=compact&bg_color=0B0910&title_color=8B5CF6&text_color=EDE9FE&border_color=8B5CF6" alt="Top Languages" height="165" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Flipp404&background=0B0910&ring=8B5CF6&fire=E879F9&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A78BFA&stroke=2E1065&border=8B5CF6" alt="GitHub Streak" />
+
+</div>
 
 </div>
 
